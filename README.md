@@ -17,5 +17,5 @@ This project features all the latest tools and practices in back-end development
 <img style="margin: 0; padding: 0" src="./screenshots/clone.png" width="800"/>
 2. Move yourself to the appropriate directory:
 <img src="./screenshots/cd.png" width="800"/>
-3. Run `yarn` to install dependencies:
+3. To install all dependencies, run:
 <img src="./screenshots/yarn.png" width="800"/>
