@@ -16,4 +16,5 @@ This project features all the latest tools and practices in back-end development
 1. Clone this repo using: `https://github.com/joao-lucas-dev/gobarber-backend.git`
 2. Move yourself to the appropriate directory: `cd gobarber-backend`
 3. To install all dependencies, run: `yarn`
+4. Create a `.env` file following the `.env-example` to have the database and nodemailer global variables
 4. Run `yarn dev` to start the server.
