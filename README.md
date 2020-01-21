@@ -13,9 +13,7 @@ This project features all the latest tools and practices in back-end development
 
 ## :electric_plug: Getting started
 
-1. Clone this repo using:
-<img style="margin: 0; padding: 0" src="./screenshots/clone.png" width="800"/>
-2. Move yourself to the appropriate directory:
-<img src="./screenshots/cd.png" width="800"/>
-3. To install all dependencies, run:
-<img src="./screenshots/yarn.png" width="800"/>
+1. Clone this repo using: `https://github.com/joao-lucas-dev/gobarber-backend.git`
+2. Move yourself to the appropriate directory: `cd gobarber-backend`
+3. To install all dependencies, run: `yarn`
+4. Run `yarn dev` to start the server.
